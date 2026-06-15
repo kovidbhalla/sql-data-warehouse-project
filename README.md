@@ -56,16 +56,16 @@ data-warehouse-project/
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
-│   ├── data_catalog.md                 # Catalog of datasets, including field descriptions and metadata
-│   ├── data_flow.drawio                # Draw.io file for the data flow diagram
-│   ├── naming-conventions.md           # Consistent naming guidelines for tables, columns, and files
+│   ├── data_integration.svg            # Shows how tables are related
+│   ├── data_lineage_dark_refined.svg   # Shows the lineage of data across all 3 layers
+│   ├── medallion_architecture.svg      # High Level Architecture for the whole dta warehouse
+│   ├── sales_data_mart_star_schema.png # Star Schema showing how fact connects to dimension tables in gold layer
 │
 ├── scripts/                            # SQL scripts for ETL and transformations
 │   ├── bronze/                         # Scripts for extracting and loading raw data
 │   ├── silver/                         # Scripts for cleaning and transforming data
 │   ├── gold/                           # Scripts for creating analytical models
-│
-├── tests/                              # Test scripts and quality files
+
 │
 ├── README.md                           # Project overview and instructions
 ├── LICENSE                             # License information for the repository
