@@ -53,7 +53,7 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-Data analytics portfolio project, raw dataset sourcing and Data Warehouse development has been done with the help and guidance of Baraa Salkini (Ex Data Engineering & Architect Head at Mercedes Banz AG)
+Data analytics portfolio project, raw dataset sourcing and Data Warehouse development has been done with the help and guidance of Baraa Salkini (Ex Data Engineering & Architect Head at Mercedes Benz AG)
 
 ## 📂 Repository Structure
 ```
