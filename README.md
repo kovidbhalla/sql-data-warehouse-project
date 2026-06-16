@@ -18,7 +18,7 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 
-                                      /docs/data_lineage_dark_refined.svg
+ ![Data Lineage](docs/data_lineage_dark_refined.svg)
 
   
 5. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
