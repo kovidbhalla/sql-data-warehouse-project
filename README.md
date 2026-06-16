@@ -53,12 +53,13 @@ Develop SQL-based analytics to deliver detailed insights into:
 
 These insights empower stakeholders with key business metrics, enabling strategic decision-making.  
 
-For more details, refer to [docs/requirements.md](docs/requirements.md).
+Data analytics portfolio project, raw dataset sourcing and Data Warehouse development has been done with the help and guidance of Baraa Salkini (Ex Data Engineering & Architect Head at Mercedes Banz AG)
 
 ## 📂 Repository Structure
 ```
-data-warehouse-project/
+sql-data-warehouse-project/
 │
+├── Data_Analysis/                      # Exploratory Data analysis(EDA), Portfolio Project and Dual Analytics Report
 ├── datasets/                           # Raw datasets used for the project (ERP and CRM data)
 │
 ├── docs/                               # Project documentation and architecture details
