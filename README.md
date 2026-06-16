@@ -15,12 +15,14 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 This project involves:
 
 1. **Data Architecture**: Designing a Modern Data Warehouse Using Medallion Architecture **Bronze**, **Silver**, and **Gold** layers.
-2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
-3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
+2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse. Data Lineage shown below:
 
- ![Data Lineage](docs/data_lineage_dark_refined.svg)
+![Data Lineage](docs/data_lineage_dark_refined.svg)
 
-  
+4. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries. Star Schema Model shown below:
+
+![Star Schema Model](docs/sales_data_mart_star_schema.png)
+
 5. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
 
 ---
